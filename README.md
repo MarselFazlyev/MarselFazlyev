@@ -12,7 +12,7 @@
 - VCS (Git,GitHub,GitLab)
 - Java Core
 - Patterns
-- 
+
 #### Soft skills:
 - работа в команде
 - стрессоустойчивость
