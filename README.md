@@ -4,9 +4,15 @@
 Изучаю все аспекты backend разработки.
 На данный момент обучаюсь на курсах  Университета Иннополис.
 ## Обучение
+
+[Задачи блока "Основы Java"](./Homeworks.md)
+
+[Задачи блока "JavaCore"]()
+
+[Задачи блока "Patterns"]()
+
 ![ Сертификат JAVA](certificate.pdf)
 
-[Задачи по блоку "Основы JAVA"](./Homeworks.md)
 
 #### Мой уровень на Codewars
 ![codewars](https://www.codewars.com/users/Marsik77/badges/large)
