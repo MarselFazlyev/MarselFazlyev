@@ -17,7 +17,7 @@
 
 ### Блок 2. InMemory хранение данных — массивы
 
-[2.1	Массивы одномерные](one-dimensional-array)   [Решение]()
+[2.1	Массивы одномерные]([one-dimensional-array](https://github.com/MarselFazlyev/java-homeworks/blob/master/one-dimensional-array/README.md))   [Решение]()
 
 [2.2	Массивы многомерные](multidimensional-array)
 
