@@ -1,3 +1,4 @@
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 # Марсель
 Привет, меня зовут Марсель, мне 37 лет, закончил два университета по техническим специальностям. 
 Изучаю все аспекты backend разработки.
