@@ -3,8 +3,8 @@
 Изучаю все аспекты backend разработки.
 На данный момент обучаюсь на курсах  Университета Иннополис.
 ## Обучение
-![JAVA](certificate.pdf)
-[Основы JAVA]()
+![ Сертификат JAVA](certificate.pdf)
+[Задачи по блоку "Основы JAVA"](MyHomeworks README.md)
 ## Навыки:
 
 #### Hard skills:
