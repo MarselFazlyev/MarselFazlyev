@@ -6,6 +6,8 @@
 ![ Сертификат JAVA](certificate.pdf)
 
 [Задачи по блоку "Основы JAVA"](./Homeworks.md)
+
+[![codewars](https://www.codewars.com/users/username](https://www.codewars.com/users/Marsik77/badges/large)
 ## Навыки:
 
 #### Hard skills:
