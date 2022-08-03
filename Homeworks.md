@@ -6,7 +6,7 @@
 
 [1.2	Структура программы](java-homeworks/program-structure)
 
-[1.3.   Условные операторы и циклы](java-homeworks/conditional-statements-cycles)  =>    [Решение]()
+[1.3.   Условные операторы и циклы](java-homeworks/conditional-statements-cycles)
 
 [1.4	Типы данных в Java: примитивы](java-homeworks/primitive-types)  =>    [Решение]()
 
