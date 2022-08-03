@@ -27,7 +27,7 @@
 
 3.1	Модификаторы доступа, наследование (квиз)	
 
-[3.2	Полиморфизм](java-homeworks/polymorphism) =>    [Решение]()
+[3.2	Полиморфизм](java-homeworks/polymorphism)
 
 [3.3	Абстракции и интерфейсы](java-homeworks/abstractions-interfaces)=>    [Решение]()
 
