@@ -1,4 +1,5 @@
 ## Задача 1. Игра-шутер
+## [Решение](https://github.com/MarselFazlyev/MarselFazlyev/tree/master/java-homeworks/polymorphism/3.2.1/src)
 
 ### Описание
 Один из проектов — это игра-шутер (~~Half-Life 3, только никому ни слова~~).
