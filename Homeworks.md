@@ -46,4 +46,4 @@
 
 [4.5	Коллекции Treemap и TreeSet](java-homeworks/tree-collections)
 ### Дипломная работа
-[Конвертер в текстовую графику](java-homeworks/diploma/diploma.md)
+[Конвертер в текстовую графику](https://github.com/MarselFazlyev/Konverter-to-text-graphics/blob/master/README.md)
