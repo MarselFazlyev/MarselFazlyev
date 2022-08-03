@@ -2,7 +2,7 @@
 
 ### Блок 1. Основы Java
 
-[1.1 Введение в программирование на Java](java-homeworks/introduction)  =>    [Решение]()
+[1.1 Введение в программирование на Java](java-homeworks/introduction)
 
 [1.2	Структура программы](java-homeworks/program-structure)
 
