@@ -38,7 +38,7 @@
 
 4.1 Generics в коллекциях и методах (квиз)
 
-[4.2	Коллекции List](java-homeworks/list)=>    [Решение]()
+[4.2	Коллекции List](java-homeworks/list)
 
 [4.3	Коллекции Queue](java-homeworks/queue)=>    [Решение]()
 
