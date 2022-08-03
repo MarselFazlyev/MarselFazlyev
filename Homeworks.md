@@ -40,7 +40,7 @@
 
 [4.2	Коллекции List](java-homeworks/list)
 
-[4.3	Коллекции Queue](java-homeworks/queue)=>    [Решение]()
+[4.3	Коллекции Queue](java-homeworks/queue)
 
 [4.4	Коллекция HashMap и HashSet](java-homeworks/hash-collections)=>    [Решение]()
 
