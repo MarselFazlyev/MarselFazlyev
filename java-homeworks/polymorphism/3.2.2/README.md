@@ -1,5 +1,5 @@
 ## Задача 2. Задача от бухгалтеров
-### Решение(https://github.com/MarselFazlyev/MarselFazlyev/tree/master/java-homeworks/polymorphism/3.2.2/src)
+### [Решение](https://github.com/MarselFazlyev/MarselFazlyev/tree/master/java-homeworks/polymorphism/3.2.2/src)
 ### Описание
 Следующая задача пришла от наших бухгалтеров.
 Бухгалтерская программа должна уметь проводить операции c различными агентами, как c физическими/юридическими лицами, так и с иностранными компаниями: чп, ип, ооо, зао, ~~иклмн~~, ~~ёпрст~~.
