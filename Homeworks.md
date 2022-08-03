@@ -8,7 +8,7 @@
 
 [1.3.   Условные операторы и циклы](java-homeworks/conditional-statements-cycles)
 
-[1.4	Типы данных в Java: примитивы](java-homeworks/primitive-types)  =>    [Решение]()
+[1.4	Типы данных в Java: примитивы](java-homeworks/primitive-types)
 
 1.5	Типы данных в Java: объекты (квиз)  =>    [Решение]()
 
