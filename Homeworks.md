@@ -12,7 +12,7 @@
 
 1.5	Типы данных в Java: объекты (квиз)
 
-[1.6	Структура класса](java-homeworks/class-structure)    =>    [Решение]()
+[1.6	Структура класса](java-homeworks/class-structure)
 
 
 ### Блок 2. InMemory хранение данных — массивы
