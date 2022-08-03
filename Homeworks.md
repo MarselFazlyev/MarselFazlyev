@@ -4,7 +4,7 @@
 
 [1.1 Введение в программирование на Java](java-homeworks/introduction)  =>    [Решение]()
 
-[1.2	Структура программы](java-homeworks/program-structure)  =>    [Решение]()
+[1.2	Структура программы](java-homeworks/program-structure)
 
 [1.3.   Условные операторы и циклы](java-homeworks/conditional-statements-cycles)  =>    [Решение]()
 
