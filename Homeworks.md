@@ -31,7 +31,7 @@
 
 [3.3	Абстракции и интерфейсы](java-homeworks/abstractions-interfaces)
 
-[3.4  Исключения, Stacktrace](java-homeworks/exceptions)=>    [Решение]()
+[3.4  Исключения, Stacktrace](java-homeworks/exceptions)
 
 
 ### Блок 4. InMemory хранение данных — коллекции
