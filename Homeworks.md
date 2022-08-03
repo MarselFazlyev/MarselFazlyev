@@ -29,7 +29,7 @@
 
 [3.2	Полиморфизм](java-homeworks/polymorphism)
 
-[3.3	Абстракции и интерфейсы](java-homeworks/abstractions-interfaces)=>    [Решение]()
+[3.3	Абстракции и интерфейсы](java-homeworks/abstractions-interfaces)
 
 [3.4  Исключения, Stacktrace](java-homeworks/exceptions)=>    [Решение]()
 
