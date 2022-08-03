@@ -20,7 +20,7 @@
 [2.1	Массивы одномерные](https://github.com/MarselFazlyev/java-homeworks/blob/master/one-dimensional-array/2.1.1/README.md) 
 
 
-[2.2	Массивы многомерные](java-homeworks/multidimensional-array)   =>    [Решение]()
+[2.2	Массивы многомерные](java-homeworks/multidimensional-array)
 
 
 ### Блок 3. Основы ООП
