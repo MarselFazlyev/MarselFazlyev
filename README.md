@@ -36,7 +36,7 @@
 - SQL
  
 #### RoadMap:
-- Фреймворк  Spring
+- Spring, Spring Boot, Spring Security
 - Многопоточное программирование
 - Реляционные СУБД и JDBC
 - JPA
