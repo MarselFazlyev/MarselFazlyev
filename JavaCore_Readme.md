@@ -4,7 +4,7 @@
 
 1.1 [Лямбда-выражения и функциональные интерфейсы](JavaCoreHomeworks/lambda)
 
-1.2 [Stream API. Потоки, повторные вызовы, основные методы](./streams/README.md)
+1.2 [Stream API. Потоки, повторные вызовы, основные методы](JavaCoreHomeworks/streams/README.md)
 
 1.3 [Потоки ввода-вывода. Работа с файлами. Сериализация](./files/README.md)
 
