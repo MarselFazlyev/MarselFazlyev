@@ -14,9 +14,9 @@
 
 ## Блок 2. Тестирование программы
 
-2.1 [Тестирование кода и Unit-тесты](https://github.com/netology-code/jd-homeworks/tree/master/junit)
+2.1 [Тестирование кода и Unit-тесты](JavaCoreHomeworks/junit)
 
-2.2 [Mockito. Мокирование вызовов](https://github.com/netology-code/jd-homeworks/tree/master/mocks)
+2.2 [Mockito. Мокирование вызовов](JavaCoreHomeworks/mocks)
 
 ## Блок 3. Работа с сетью
 
