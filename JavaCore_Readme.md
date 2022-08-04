@@ -6,11 +6,11 @@
 
 1.2 [Stream API. Потоки, повторные вызовы, основные методы](JavaCoreHomeworks/streams/README.md)
 
-1.3 [Потоки ввода-вывода. Работа с файлами. Сериализация](./files/README.md)
+1.3 [Потоки ввода-вывода. Работа с файлами. Сериализация](JavaCoreHomeworks/files/README.md)
 
-1.4 [Сборка проектов. Maven и Gradle](./builders/README.md)
+1.4 [Сборка проектов. Maven и Gradle](JavaCoreHomeworks/builders/README.md)
 
-1.5 [Работа с файлами CSV, XML, JSON](./special_files/README.md)
+1.5 [Работа с файлами CSV, XML, JSON](JavaCoreHomeworks/special_files/README.md)
 
 ## Блок 2. Тестирование программы
 
