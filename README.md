@@ -11,7 +11,7 @@
 
 [Задачи блока "Patterns"]()
 
-![ Сертификат JAVA](certificate.pdf)
+![Сертификат JAVA](certificate.pdf)
 
 
 #### Мой уровень на Codewars
