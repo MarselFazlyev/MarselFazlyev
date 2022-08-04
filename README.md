@@ -9,7 +9,7 @@
 
 [Задачи блока "JavaCore"](JavaCore_Readme.md)
 
-[Задачи блока "Patterns"]()
+[Задачи блока "Patterns"](Patterns_Readme.md)
 
 ![Сертификат JAVA](certificate.pdf)
 
