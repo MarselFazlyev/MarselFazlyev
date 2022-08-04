@@ -1,5 +1,5 @@
 # Задача 2: Работяга
-
+## [Решение](https://github.com/MarselFazlyev/MarselFazlyev/tree/master/JavaCoreHomeworks/lambda/task2/src)
 ## Описание
 В данной задаче вам необходимо реализовать класс `Worker`, который будет выполнять некоторые задачи и возвращать результат в родительский класс `Main`.
 ```java
