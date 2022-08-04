@@ -36,7 +36,7 @@
 
 1.3 [Поведенческие шаблоны. Command, CoR, Observer, Iterator](JavaCoreHomeworks/behave/README.md)
 
-1.4 [Magics, DRY, SOLID](JavaCoreHomeworks/README.md)
+1.4 [Magics, DRY, SOLID](JavaCoreHomeworks/solid)
 
 
 # 5. Домашние задания по курсу «Многопоточное и функциональное программирование»
