@@ -20,9 +20,9 @@
 
 ## Блок 3. Работа с сетью
 
-3.1 [Основы работы с сетью. Модель OSI](https://github.com/netology-code/jd-homeworks/tree/master/network)
+3.1 [Основы работы с сетью. Модель OSI](JavaCoreHomeworks/network)
 
-3.2 [Протокол HTTP. Вызовы удаленных серверов](https://github.com/netology-code/jd-homeworks/tree/master/http)
+3.2 [Протокол HTTP. Вызовы удаленных серверов](JavaCoreHomeworks/http)
 
 ## Блок 4. Структура JVM
 4.1 [JVM. Организация памяти, сборщики мусора, VisualVM](JavaCoreHomeworks/jvm)
@@ -36,7 +36,7 @@
 
 1.3 [Поведенческие шаблоны. Command, CoR, Observer, Iterator](JavaCoreHomeworks/behave/README.md)
 
-1.4 [Magics, DRY, SOLID](./solid/README.md)
+1.4 [Magics, DRY, SOLID](JavaCoreHomeworks/README.md)
 
 
 # 5. Домашние задания по курсу «Многопоточное и функциональное программирование»
