@@ -1,5 +1,5 @@
 # Задача 1: Калькулятор
-## [Решение](JavaCoreHomeworks/lambda/task1/src/)
+## [Решение](https://github.com/MarselFazlyev/MarselFazlyev/tree/master/JavaCoreHomeworks/lambda/task1/src)
 
 ## Описание
 Создайте класс `Calculator`. В нем создайте статическую переменную типа `Supplier`. Это функциональный интерфейс, реализующий метод `get()`. С помощью данной переменной можно будет получить экземпляр класса `Calculator`. Реализуйте ссылку на вызов конструктора класса `Calculator() { }`.
