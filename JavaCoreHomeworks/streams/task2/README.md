@@ -1,5 +1,5 @@
 # Задача 2: Перепись населения
-
+## [Решение](https://github.com/MarselFazlyev/MarselFazlyev/tree/master/JavaCoreHomeworks/streams/task2/src)
 ## Описание
 В данной задаче предлагается проанализировать массив данных с информаций о людях с использованием стримов из библиотеки `Stream API`. 
 
