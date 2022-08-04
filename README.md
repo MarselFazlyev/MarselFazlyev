@@ -7,7 +7,7 @@
 
 [Задачи блока "Основы Java"](./Homeworks.md)
 
-[Задачи блока "JavaCore"]()
+[Задачи блока "JavaCore"](JavaCore_Readme.md)
 
 [Задачи блока "Patterns"]()
 
