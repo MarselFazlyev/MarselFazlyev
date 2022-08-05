@@ -1,5 +1,5 @@
 # Задача 1: CSV - JSON парсер
-# [Решение](JavaCoreHomeworks/special_files_solution)
+# [Решение](JavaCoreHomeworks/special_files_solution/)
 ## Описание
 В данном домашнем задании вам предстоит написать два конвертора: из формата CSV и XML в формат JSON, а так же парсер JSON файлов в Java классы.
 
