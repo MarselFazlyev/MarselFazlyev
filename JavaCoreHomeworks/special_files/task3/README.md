@@ -1,5 +1,5 @@
 # Задача 3: JSON парсер (со звездочкой *)
-
+## [Решение](https://github.com/MarselFazlyev/MarselFazlyev/tree/master/special_files_solution)
 ## Описание
 В данной задаче вам предстоит произвести чтение файла JSON, его парсинг и преобразование объектов JSON в классы Java.
 
