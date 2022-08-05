@@ -12,7 +12,7 @@
 
 [Задачи блока "Patterns"](Patterns_Readme.md)
 
-[Итоговая дипломная работа]()
+[Итоговая дипломная работа](Diplom_README.md)
 
 ![Сертификат JAVA](certificate.pdf)
 
