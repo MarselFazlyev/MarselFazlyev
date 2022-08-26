@@ -37,6 +37,7 @@
 
 #### Изучаю в данное время:
 - SQL
+- Многопоточное программирование
  
 #### RoadMap:
 - Spring, Spring Boot, Spring Security
