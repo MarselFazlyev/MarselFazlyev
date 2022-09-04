@@ -28,6 +28,7 @@
 - VCS (Git,GitHub,GitLab)
 - Java Core
 - Patterns
+- Многопоточное программирование
 
 #### Soft skills:
 - работа в команде
@@ -37,14 +38,13 @@
 
 #### Изучаю в данное время:
 - SQL
-- Многопоточное программирование
+
  
 #### RoadMap:
-- Spring, Spring Boot, Spring Security
-- Многопоточное программирование
 - Реляционные СУБД и JDBC
 - JPA
 - HIbernate
+- Spring, Spring Boot, Spring Security
 - HTML,CSS
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
