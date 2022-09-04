@@ -38,10 +38,10 @@
 
 #### Изучаю в данное время:
 - SQL
+- Реляционные СУБД и JDBC
 
  
 #### RoadMap:
-- Реляционные СУБД и JDBC
 - JPA
 - HIbernate
 - Spring, Spring Boot, Spring Security
