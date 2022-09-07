@@ -39,11 +39,11 @@
 #### Изучаю в данное время:
 - SQL
 - Реляционные СУБД и JDBC
+- - JPA
+- HIbernate
 
  
 #### RoadMap:
-- JPA
-- HIbernate
 - Spring, Spring Boot, Spring Security
 - HTML,CSS
 
