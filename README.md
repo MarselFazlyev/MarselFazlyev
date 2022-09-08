@@ -39,8 +39,7 @@
 #### Изучаю в данное время:
 - SQL
 - Реляционные СУБД и JDBC
-- JPA
-- HIbernate
+- JPA/HIbernate
 
  
 #### RoadMap:
