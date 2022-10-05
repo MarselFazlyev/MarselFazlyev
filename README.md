@@ -30,6 +30,7 @@
 - Patterns
 - Многопоточное программирование
 - SQL
+- Реляционные СУБД и JDBC
 
 #### Soft skills:
 - работа в команде
@@ -38,7 +39,7 @@
 
 
 #### Изучаю в данное время:
-- Реляционные СУБД и JDBC
+- Spring, Spring Boot, Spring Security,Spring MVC
 - JPA/HIbernate
 
  
