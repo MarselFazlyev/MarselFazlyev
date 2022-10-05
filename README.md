@@ -44,7 +44,6 @@
 
  
 #### RoadMap:
-- Spring, Spring Boot, Spring Security,Spring MVC
 - HTML,CSS
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
