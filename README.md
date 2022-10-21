@@ -31,6 +31,8 @@
 - Многопоточное программирование
 - SQL
 - Реляционные СУБД и JDBC
+- JPA/HIbernate
+- SpringCore,Spring MVC
 
 #### Soft skills:
 - работа в команде
@@ -39,8 +41,8 @@
 
 
 #### Изучаю в данное время:
-- Spring, Spring Boot, Spring Security,Spring MVC
-- JPA/HIbernate
+ Spring Data JPA, Spring Boot, Spring Security,
+
 
  
 #### RoadMap:
