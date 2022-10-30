@@ -32,7 +32,7 @@
 - SQL
 - Реляционные СУБД и JDBC
 - JPA/HIbernate
-- SpringCore,Spring MVC
+- SpringCore,Spring MVC,Spring Data JPA, Spring Boot
 
 #### Soft skills:
 - работа в команде
@@ -41,12 +41,12 @@
 
 
 #### Изучаю в данное время:
- Spring Data JPA, Spring Boot, Spring Security,
+  Spring Security,
 
 
  
 #### RoadMap:
-- HTML,CSS
+- HTML,CSS,...
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
