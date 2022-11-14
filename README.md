@@ -6,14 +6,6 @@
 
 #### [Итоговая дипломная работа](Diplom_README.md)
 
-[Задачи блока "Основы Java"](./Homeworks.md)
-
-[Задачи блока "JavaCore"](JavaCore_Readme.md)
-
-[Задачи блока "Patterns"](Patterns_Readme.md)
-
-[Итоговая дипломная работа](Diplom_README.md)
-
 ![Сертификат JAVA](certificate.pdf)
 
 
