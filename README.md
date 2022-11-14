@@ -1,7 +1,7 @@
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-### Привет!
+## Привет!
  Меня зовут Марсель я Java-разработчик
-### Вот,что я умею :
+## Вот,что я умею :
 #### Курс Нетологии :"Java-разработка"    
 ##### [Домашние задачи курса ](NetologyCourse_Readme.md)
 ##### [Итоговая дипломная работа "Search System"](Diplom_README.md)
