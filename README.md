@@ -20,7 +20,7 @@
 #### Мой уровень на Codewars
 ![codewars](https://www.codewars.com/users/Marsik77/badges/large)
 
-## Навыки:
+## Ключевые навыки:
 
 #### Hard skills:
 - cинтаксис Java
