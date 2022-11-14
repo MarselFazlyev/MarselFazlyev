@@ -45,5 +45,5 @@
 [4.4	Коллекция HashMap и HashSet](java-homeworks/hash-collections)
 
 [4.5	Коллекции Treemap и TreeSet](java-homeworks/tree-collections)
-### Дипломная работа
+### Курсовая работа
 [Конвертер в текстовую графику](https://github.com/MarselFazlyev/Konverter-to-text-graphics/blob/master/README.md)
