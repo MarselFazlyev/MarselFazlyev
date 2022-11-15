@@ -6,7 +6,7 @@
 4. [Git](https://github.com/MarselFazlyev/InnopolisAttestation/blob/main/HomeworkInnopolisGit_Readme.md) \
 5. [Функции и процедуры](https://github.com/MarselFazlyev/InnopolisAttestation/tree/main/FunctionsandProcedures) \
 6. [Алгоритмы](https://github.com/MarselFazlyev/InnopolisAttestation/tree/main/Homework6_Algoritmy_BigO/src) \
-7. [ООП, Инкапсуляция]() \
+7. [ООП, Инкапсуляция](https://github.com/MarselFazlyev/InnopolisAttestation/tree/main/Homework7_Inkapsulyacija) \
 8. [Наследование, Полиморфизм]() \
 9. [Абстрактные классы и интерфейсы]() \
 10. [Анонимные классы и лямбда выражения]() \
