@@ -13,4 +13,4 @@
 11. [Object and String](https://github.com/MarselFazlyev/InnopolisAttestation/tree/main/Homework11_ObjectAndString/src) \
 12. [Collections](https://github.com/MarselFazlyev/InnopolisAttestation/tree/main/Homework12_Collections) \
 13. [JDBC](https://github.com/MarselFazlyev/InnopolisAttestation/blob/main/Homework13_JDBC/Readme.md) \
-14. [Hibernate]() 
+14. [Hibernate](https://github.com/MarselFazlyev/InnopolisAttestation/tree/main/Homework14_Hibernate) 
