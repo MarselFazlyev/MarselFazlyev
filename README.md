@@ -11,9 +11,7 @@
 ##### [Итоговая дипломная работа  "Онлайн бронирование экскурсий в музей"](https://github.com/MarselFazlyev/InnopolisAttestation/tree/main/DiplomWork)
 ***
 ### Успешное выполнение тестового задания Компании XXX: [тестовая задача "Онлайн табло авиаперелетов"](https://github.com/MarselFazlyev/gridnineProject)
-***
 ### SQL Практические задачи и теория курса по SQL Трегулова (в процессе)
-***
 ### Пет проект UrbanProject (в процессе)
 ***
 ## Мои сертификаты
