@@ -1,4 +1,4 @@
-## Домашние задачи курса "Введение в разработку корпоративных приложений"
+## Домашние задачи курса "Введение в разработку корпоративных приложений на Java"
 
 1.[Системы счисления](https://github.com/MarselFazlyev/InnopolisAttestation/tree/main/Homework1_SystemySchislenyja) \
 2. [Алгоритмы и псевдокод](https://github.com/MarselFazlyev/InnopolisAttestation/tree/main/Homework2_Algoritms) \
