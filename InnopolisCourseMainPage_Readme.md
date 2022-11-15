@@ -5,7 +5,7 @@
 3. [JDK](https://github.com/MarselFazlyev/InnopolisAttestation/tree/main/Homework3,4_InitialProject/src) \
 4. [Git](https://github.com/MarselFazlyev/InnopolisAttestation/blob/main/HomeworkInnopolisGit_Readme.md) \
 5. [Функции и процедуры](https://github.com/MarselFazlyev/InnopolisAttestation/tree/main/FunctionsandProcedures) \
-6. [Алгоритмы]() \
+6. [Алгоритмы](https://github.com/MarselFazlyev/InnopolisAttestation/tree/main/Homework6_Algoritmy_BigO/src) \
 7. [ООП, Инкапсуляция]() \
 8. [Наследование, Полиморфизм]() \
 9. [Абстрактные классы и интерфейсы]() \
