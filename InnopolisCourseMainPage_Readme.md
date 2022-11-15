@@ -9,7 +9,7 @@
 7. [ООП, Инкапсуляция](https://github.com/MarselFazlyev/InnopolisAttestation/tree/main/Homework7_Inkapsulyacija) \
 8. [Наследование, Полиморфизм](https://github.com/MarselFazlyev/InnopolisAttestation/tree/main/Homework8_NasledovaniePolimorfizm/src) \
 9. [Абстрактные классы и интерфейсы](https://github.com/MarselFazlyev/InnopolisAttestation/tree/main/Homework9_AbstractClasses_Interfaces/src) \
-10. [Анонимные классы и лямбда выражения]() \
+10. [Анонимные классы и лямбда выражения](https://github.com/MarselFazlyev/InnopolisAttestation/tree/main/Homework10_AnonimClasses_Lambda/src) \
 11. [Object and String]() \
 12. [Collections]() \
 13. [JDBC]() \
