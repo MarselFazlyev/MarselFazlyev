@@ -17,7 +17,7 @@
 ### Пет проект UrbanProject (в процессе)
 ***
 ## Мои сертификаты
-![Сертификат JAVA](certificate.pdf)
+![Сертификат "Java-разработчик" Нетология](certificate.pdf)
 
 
 #### Мой уровень на Codewars
