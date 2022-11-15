@@ -10,7 +10,7 @@
 8. [Наследование, Полиморфизм](https://github.com/MarselFazlyev/InnopolisAttestation/tree/main/Homework8_NasledovaniePolimorfizm/src) \
 9. [Абстрактные классы и интерфейсы](https://github.com/MarselFazlyev/InnopolisAttestation/tree/main/Homework9_AbstractClasses_Interfaces/src) \
 10. [Анонимные классы и лямбда выражения](https://github.com/MarselFazlyev/InnopolisAttestation/tree/main/Homework10_AnonimClasses_Lambda/src) \
-11. [Object and String]() \
-12. [Collections]() \
+11. [Object and String](https://github.com/MarselFazlyev/InnopolisAttestation/tree/main/Homework11_ObjectAndString/src) \
+12. [Collections](https://github.com/MarselFazlyev/InnopolisAttestation/tree/main/Homework12_Collections) \
 13. [JDBC]() \
 14. [Hibernate]() 
