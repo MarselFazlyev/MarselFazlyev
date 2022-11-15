@@ -2,7 +2,7 @@
 
 1.[Системы счисления](https://github.com/MarselFazlyev/InnopolisAttestation/tree/main/Homework1_SystemySchislenyja) \
 2. [Алгоритмы и псевдокод](https://github.com/MarselFazlyev/InnopolisAttestation/tree/main/Homework2_Algoritms) \
-3. JDK \
+3. [JDK](https://github.com/MarselFazlyev/InnopolisAttestation/tree/main/Homework3,4_InitialProject/src) \
 4. Git \
 5. Функции и процедуры \
 6. Алгоритмы \
