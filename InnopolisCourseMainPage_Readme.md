@@ -12,5 +12,5 @@
 10. [Анонимные классы и лямбда выражения](https://github.com/MarselFazlyev/InnopolisAttestation/tree/main/Homework10_AnonimClasses_Lambda/src) \
 11. [Object and String](https://github.com/MarselFazlyev/InnopolisAttestation/tree/main/Homework11_ObjectAndString/src) \
 12. [Collections](https://github.com/MarselFazlyev/InnopolisAttestation/tree/main/Homework12_Collections) \
-13. [JDBC]() \
+13. [JDBC](https://github.com/MarselFazlyev/InnopolisAttestation/blob/main/Homework13_JDBC/Readme.md) \
 14. [Hibernate]() 
